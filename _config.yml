@@ -1,0 +1,8 @@
+title: Blog to Page for Confluence
+description: Convert Confluence blog posts to pages and archive old blog posts in year and month pages – user guide, FAQ, privacy, terms and support.
+theme: minima
+header_pages:
+  - index.md
+  - guide.md
+  - faq.md
+  - support.md
