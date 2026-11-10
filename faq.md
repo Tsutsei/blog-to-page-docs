@@ -8,13 +8,16 @@ permalink: /faq/
 Confluence sets the person who converts as the page's creator. The "Originally published as a blog post by … on …" note at the top keeps the original author (as a mention) and date.
 
 **Are comments moved?**
-Comments can't be moved between pages and blog posts. With the option on, they are added at the end of the page as text, with their authors and dates.
+Comments can't be moved between pages and blog posts. With the option on, the blog post's comments are added at the end of the page as text, with their authors and dates (replies and inline comments are not included).
+
+**What if something goes wrong in the middle?**
+If the page was created but a later step failed, the result shows the page and offers Undo; the original blog post is not changed. If some files could not be copied, the original is kept as it is.
 
 **Do images and links still work?**
 Yes. Images and file links in a blog post point to its attachments by file name; the attachments are copied with the same names. Links to other pages are unchanged. Links from other pages to the blog post keep pointing to the blog post – choose "keep it and add a link" to send readers to the new page.
 
 **What does Undo do?**
-It moves the new page to the trash, removes the "moved" link from the blog post or restores the blog post from the trash. If the blog post was purged from the trash in the meantime, the page is kept.
+It moves the new page to the trash (it asks first if the page was edited after the conversion), removes the "moved" link from the blog post or restores the blog post from the trash. If the blog post was purged from the trash in the meantime, the page is kept.
 
 **Can I convert pages to blog posts?**
 No – Blog to Page converts blog posts to pages.
