@@ -6,7 +6,7 @@ permalink: /terms/
 
 _Last updated: 9 November 2026_
 
-These terms govern the use of the Atlassian Marketplace app **Blog to Page – Convert & Archive Blog Posts for Confluence** (the "App") provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor"). By installing or using the App you ("Customer") agree to them.
+These terms govern the use of the Atlassian Marketplace app **Blog to Page – Convert & Archive Blog Posts for Confluence** (the "App") provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor"). By installing or using the App you ("Customer") agree to them.
 
 1. **Licence.** For the term of a valid subscription purchased through the Atlassian Marketplace (or free use where offered), the Vendor grants the Customer a non-exclusive, non-transferable right to use the App on the Customer's Atlassian Cloud sites. Purchases, renewals and refunds are handled by Atlassian under the Atlassian Marketplace Terms of Use.
 2. **Restrictions.** The Customer may not resell, sublicense, reverse engineer, or use the App to build a competing product, except as permitted by law.

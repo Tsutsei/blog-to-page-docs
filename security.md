@@ -6,7 +6,7 @@ permalink: /security/
 
 _Last updated: 9 November 2026_
 
-This policy applies to the Atlassian Marketplace app **Blog to Page – Convert & Archive Blog Posts for Confluence** (the "App"), provided by **Bc. Tomáš Buchta, sole trader, Company ID (IČO) 21540951, Ostrava, Czech Republic** ("we").
+This policy applies to the Atlassian Marketplace app **Blog to Page – Convert & Archive Blog Posts for Confluence** (the "App"), provided by **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("we").
 
 ## Reporting a vulnerability
 Send security issues to **[security@tsutsei-support.atlassian.net](mailto:security@tsutsei-support.atlassian.net)**. Every message creates a tracked request in our support system. Please include the app, your site URL, steps to reproduce and the impact you expect. Do not include passwords, API tokens or customer data.

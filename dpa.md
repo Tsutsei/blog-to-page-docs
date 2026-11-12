@@ -6,7 +6,7 @@ permalink: /dpa/
 
 _Last updated: 9 November 2026_
 
-This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Blog to Page – Convert & Archive Blog Posts for Confluence** ("Customer", controller) and **Bc. Tomáš Buchta, sole trader, IČO 21540951, 30. dubna 2307/12, 702 00 Ostrava, Czech Republic** ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
+This Data Processing Addendum ("DPA") forms part of the [Terms of use]({{ '/terms/' | relative_url }}) between the customer installing **Blog to Page – Convert & Archive Blog Posts for Confluence** ("Customer", controller) and **Tsutsei Software**, a brand of the sole trader identified on the [Legal information](https://tsutsei-software.com/legal.html) page ("Vendor", processor), and applies to personal data processed by the App under Article 28 of the GDPR.
 
 1. **Subject matter and duration.** Copying the Customer's Confluence blog posts into pages within the Customer's site and keeping a short conversion history, for as long as the App is installed.
 2. **Nature and purpose.** Reading a blog post with the user's permissions, creating a page with its content, attachments, labels and optionally comments, changing or trashing the original when chosen, and storing ids and titles for undo.
